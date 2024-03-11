@@ -1,8 +1,20 @@
 
-
+body{
+    padding: 0px;
+    margin: 0px;
+    color: white;
+}
 
 
 footer{
+    background-color: #0DCAF0;
+}
+
+.cajas{
+    background-color: #0DCAF0;
+}
+
+.card-body{
     background-color: #0DCAF0;
 }
 
@@ -10,6 +22,6 @@ footer{
     color: white;
 }
 
-.pt-1{
-    color :white;
+.imagen-viajes{
+    max-width: 2.3em;
 }
